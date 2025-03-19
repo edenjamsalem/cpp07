@@ -6,11 +6,11 @@
 #    By: eamsalem <eamsalem@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/06/17 14:04:43 by eamsalem          #+#    #+#              #
-#    Updated: 2025/03/19 15:34:26 by eamsalem         ###   ########.fr        #
+#    Updated: 2025/03/19 15:37:55 by eamsalem         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME = Template	
+NAME =	Iter
 
 INCLUDES = ./includes
 OBJ_DIR = ./bin

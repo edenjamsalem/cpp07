@@ -3,8 +3,8 @@
 
 int main()
 {
-	int a = 100;
-	int b = 101;
+	int a = 99;
+	int b = 100;
 
 	char c = 'c';
 	char d = 'd';
@@ -22,7 +22,7 @@ int main()
 	std::cout << "(char) min: " << min(c, d) << std::endl;
 	std::cout << "(char) max: " << max(c, d) << std::endl;
 	swap(c, d);
-	std::cout << "(char) swap c: " << a << std::endl;
-	std::cout << "(char) swap d: " << b << std::endl << std::endl;
+	std::cout << "(char) swap c: " << c << std::endl;
+	std::cout << "(char) swap d: " << d << std::endl << std::endl;
 
 }
